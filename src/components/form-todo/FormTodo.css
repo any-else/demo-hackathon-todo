@@ -1,0 +1,31 @@
+.form-todo {
+  width: fit-content;
+  background-color: gray;
+  border-radius: 20px;
+  margin: 20px auto;
+  padding-left: 10px;
+  opacity: 0.7;
+}
+
+.form-todo input {
+  padding: 10px 5px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+
+  color: white;
+
+  font-size: 20px;
+}
+
+.form-todo button {
+  background-color: rgb(193, 53, 14);
+
+  border-top-right-radius: 20px;
+
+  border-bottom-right-radius: 20px;
+
+  outline: none;
+
+  border: none;
+}

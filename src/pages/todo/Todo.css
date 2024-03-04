@@ -1,0 +1,16 @@
+.root-container {
+  background-color: azure;
+  /* box-shadow: 2px 2px 50px 10px pink; */
+
+  width: 500px;
+  border-radius: 20px;
+
+  margin: 0 auto;
+  height: auto;
+  padding: 10px 25px;
+}
+
+.root-container h2 {
+  color: black;
+  text-align: start;
+}

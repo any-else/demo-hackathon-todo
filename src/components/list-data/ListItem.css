@@ -1,0 +1,13 @@
+.root-list {
+  color: black;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.list-header h3 {
+  text-align: left;
+  text-transform: capitalize;
+}
